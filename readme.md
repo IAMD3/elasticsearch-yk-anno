@@ -127,9 +127,6 @@ MyDTO(name=GoLanguage is best, num_int=1, num_Int=2, num_Double=3.0, num_double=
 
 ## pom坐标
 ```pom
-        <dependency>
-            <artifactId>pure-search-anno-parser</artifactId>
-            <groupId>cool.yukai</groupId>
-            <version>6.8.X-SNAPSHOT</version>
-        </dependency>
+      更新中....
+      请先自行打包deploy到私服
 ```
